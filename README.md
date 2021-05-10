@@ -1,9 +1,5 @@
 # Certificate-Generator
-Generate PDF certificate using JavaScript
+Generate PDF Certificate menggunakan Javascript dan library PDF-lib.js dan FileSaver.js
 
-This app uses two library PDF-lib.js and FileSaver.js
-
-![Screenshot](https://i.imgur.com/H7mcyZ3.png)
-
-# Certificate Sample
-![Sample pdf](https://i.imgur.com/GFGU3K9.jpg)
+# Contoh PDF
+![Sample pdf](https://i.imgur.com/VIIjR2d.png)
